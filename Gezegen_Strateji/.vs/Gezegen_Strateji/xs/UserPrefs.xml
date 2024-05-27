@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{FA4F6FA9-C7C9-9EED-29A3-57B97AF8567C}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/MadenGoster.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Ana_Gezegen.cs" Line="9" Column="1" />
+      <File FileName="Assets/Scripts/BirinciSahneYaziKaydedici.cs" />
+      <File FileName="Assets/Scripts/Asker.cs" Line="48" Column="2" />
+      <File FileName="Assets/Scripts/GoldGenerator.cs" Line="49" Column="1" />
+      <File FileName="Assets/Scripts/Maden.cs" Line="49" Column="2" />
+      <File FileName="Assets/Scripts/Yemek.cs" Line="48" Column="2" />
+      <File FileName="Assets/Scripts/Uyarı.cs" Line="24" Column="82" />
+      <File FileName="Assets/Scripts/GoldGoster.cs" Line="41" Column="2" />
+      <File FileName="Assets/Scripts/YemekGoster.cs" Line="49" Column="2" />
+      <File FileName="Assets/Scripts/AskerGoster.cs" Line="49" Column="2" />
+      <File FileName="Assets/Scripts/MadenGoster.cs" Line="49" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Gezegen_Strateji" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Planets" expanded="True">
+                <Node name="shader" expanded="True" />
+              </Node>
+              <Node name="Scripts" expanded="True">
+                <Node name="MadenGoster.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="a71e1399-ccf8-4f0e-872b-1cd61cba413f" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
